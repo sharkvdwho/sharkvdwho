@@ -1,4 +1,4 @@
-Hey! I'm developing some tools in Rust and python
+Hey! I'm developing some tools in Rust
 
 
 
