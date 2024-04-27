@@ -1,4 +1,4 @@
-Hey! I'm developing some tools in ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust) and python ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+Hey! I'm developing some tools in Rust and python
 
 
 
