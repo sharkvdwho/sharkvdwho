@@ -1,5 +1,2 @@
-Hey! I'm developing some stuff in Rust
+Hey! I write stuff in rust
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharkvdwho&show_icons=true&theme=dark)
